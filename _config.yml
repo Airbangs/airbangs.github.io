@@ -1,0 +1,57 @@
+# Site settings
+title: 沧海一粟
+header-img: "img/Xacebook.jpg"
+tagline: "cn"  
+description: "Alina|沧海一粟"  
+baseurl: ""
+url: "http://www.litiancui.com"  
+
+# About/contact
+owner: 
+  name: " Alina"
+  email: litiancui@126.com
+  bio: "敬往事一杯洒，愿无岁月可回头。"
+
+# Data
+gavatar: http://openmindclub.qiniudn.com/omt/GavatarCNFeat.png
+favicon: img/favicon.png
+
+github_username: airbangs
+
+# Build settings  
+# use Github Flavored Markdown !important  
+# document: http://jekyllrb.com/docs/configuration/#kramdown  
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 15
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/SuZhou
+
+# Defaults for posts
+defaults:
+    scope: 
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Alina"
+      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+
+# Comments 
+comments :
+  provider : disqus
+  duoshuo :
+    short_name : alina
+  disqus :
+      short_name : alina
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-80884545-1
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in footer navigation
