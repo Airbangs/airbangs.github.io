@@ -11,8 +11,7 @@ header-img: "img/green.jpg"
 </center>
 
 
-### 
-
+### 学习日程
 
 
 
@@ -20,14 +19,8 @@ header-img: "img/green.jpg"
 
 
 
-## 输出之地
-
-- [博客：读立写生](www.litiancui.com)
-- [通讯：卡片创作通讯](http://www.mesule.com/)
-
-
 ### 联系
-
+- [邮箱@litiancui](litiancui@126.com)
 
 
 <center>
@@ -36,5 +29,8 @@ header-img: "img/green.jpg"
 
 
 ### ChangeLog
+
+
+- 2017-03-31初次更新
 
 
