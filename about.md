@@ -7,14 +7,11 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://openmindclub.qiniudn.com/omt/WhiteAvatar.jpg" align="center"></p>
+    <p><img src="https://pan.baidu.com/s/1nvTtfJV" align="center"></p>
 </center>
 
 
 ### 学习日程
-
-
-
 * 2017-03 英语听力练习：听100遍。
 
 
@@ -23,14 +20,7 @@ header-img: "img/green.jpg"
 - [邮箱@litiancui](litiancui@126.com)
 
 
-<center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
-</center>
-
-
 ### ChangeLog
-
-
 - 2017-03-31初次更新
 
 
