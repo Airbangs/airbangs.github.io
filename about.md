@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="https://pan.baidu.com/s/1nvTtfJV" align="center"></p>
+    <p><img src="img/kanshui.jpg" align="center"></p>
 </center>
 
 
