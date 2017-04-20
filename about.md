@@ -13,6 +13,8 @@ header-img: "img/green.jpg"
 
 ### 学习日程
 * 2017-03 英语听力练习：听100遍。
+* 2017-04 英语听力练习：听100遍。
+* 2017-04 jersey框架学习：Jersey 2.25.1 User Guide。
 
 
 
