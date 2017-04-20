@@ -11,7 +11,7 @@ description: 好记性不如烂笔头。
 
 2017年4月120日 10:48:00
 
-新建博客时所用命令总结：
+一、新建博客时所用命令总结：
 1.
 echo "# Hexo" >> README.md
 git init
@@ -27,11 +27,8 @@ git push -u origin master
 假如我们的源是origin，分支是master，那么我们 需要这样写git pull origin master --allow-unrelated-histories需要知道，我们的源可以是本地的路径
 
 
+二、其它常用命令
 1.初始化：git init
-git remote add origin git@github.com:Airbang/Hexo2.git
-touch ?
-git add ?
-git commit -m "test"
 设置推或抓取源：
 git push -u origin master
 抓取：
