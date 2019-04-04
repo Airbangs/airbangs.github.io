@@ -26,3 +26,21 @@ $ tar cf test.tar test/
 $ gzip test.tar    
 或    
 $ tar czf test.tar.gz test/   
+
+
+二、启动mysql
+1.mysql.server start
+
+2.
+brew services start mysql
+brew services stop mysql
+
+Start manually:
+pg_ctl -D /usr/local/var/postgres start
+
+Stop manually:
+pg_ctl -D /usr/local/var/postgres stop
+
+Start automatically:
+"To have launchd start postgresql now and restart at login:"
+brew services start postgresql

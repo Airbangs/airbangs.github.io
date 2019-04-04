@@ -47,5 +47,8 @@ git commit -m "changed the foldername"
 4.git删除文件操作   
 git rm xxx
 
+5.更新到最新
+git fetch  
+git checkout dayxx   
 
 ......
